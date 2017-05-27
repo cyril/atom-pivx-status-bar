@@ -9,9 +9,6 @@
     "pivx",
     "price"
   ],
-  "activationCommands": {
-    "atom-workspace": "pivx-status-bar:toggle"
-  },
   "repository": "https://github.com/cyril/pivx-status-bar",
   "license": "MIT",
   "engines": {
