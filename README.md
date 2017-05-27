@@ -1,4 +1,4 @@
-# PIVX status bar
+# PIVX Status Bar
 
 An [Atom](https://atom.io/) package to keep an eye on the latest [PIVX](https://pivx.org/) price while you code!
 

@@ -9,7 +9,7 @@
     "pivx",
     "price"
   ],
-  "repository": "https://github.com/cyril/pivx-status-bar",
+  "repository": "https://github.com/cyril/atom-pivx-status-bar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
