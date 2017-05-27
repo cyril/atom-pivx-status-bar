@@ -1,0 +1,29 @@
+{
+  "name": "pivx-status-bar",
+  "main": "./lib/pivx-status-bar",
+  "version": "0.0.0",
+  "description": "Keep an eye on the latest PIVX price while you code!",
+  "keywords": [
+    "cryptocurrency",
+    "market",
+    "pivx",
+    "price"
+  ],
+  "activationCommands": {
+    "atom-workspace": "pivx-status-bar:toggle"
+  },
+  "repository": "https://github.com/cyril/pivx-status-bar",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "dependencies": {
+  }
+}
