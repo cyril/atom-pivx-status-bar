@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "PIVX status bar",
+          "label": "PIVX Status Bar",
           "submenu": [
             {
               "label": "Toggle",
