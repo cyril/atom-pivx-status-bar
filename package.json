@@ -7,7 +7,7 @@
     "cryptocurrency",
     "market",
     "pivx",
-    "price"
+    "price-ticker"
   ],
   "repository": "https://github.com/cyril/atom-pivx-status-bar",
   "license": "MIT",
