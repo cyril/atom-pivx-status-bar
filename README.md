@@ -6,4 +6,4 @@ The price is provided by [CoinMarketCap](https://coinmarketcap.com/)'s API, expr
 
 ## Example
 
-![Example](https://i.imgur.com/hPI7qXh.png)
+![1Ᵽ = $1.16863](https://i.imgur.com/hPI7qXh.png)
