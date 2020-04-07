@@ -1,7 +1,7 @@
 {
   "name": "pivx-status-bar",
   "main": "./lib/pivx-status-bar",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Keep an eye on the latest PIVX price while you code!",
   "keywords": [
     "cryptocurrency",
